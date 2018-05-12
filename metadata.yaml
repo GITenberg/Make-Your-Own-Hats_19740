@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8853'
     url: http://www.gutenberg.org/2009/agents/8853
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19740#Make-Your-Own-Hats
 gutenberg_bookshelf:
 - Technology
 - Crafts
