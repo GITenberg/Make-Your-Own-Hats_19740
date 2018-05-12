@@ -1,0 +1,28 @@
+_repo: Make-Your-Own-Hats_19740
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martin, Gene Allen
+    gutenberg_agent_id: '8853'
+    url: http://www.gutenberg.org/2009/agents/8853
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+gutenberg_issued: '2006-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Hats'
+- !lcsh 'Millinery'
+title: Make Your Own Hats
+url: http://www.gutenberg.org/ebooks/19740
